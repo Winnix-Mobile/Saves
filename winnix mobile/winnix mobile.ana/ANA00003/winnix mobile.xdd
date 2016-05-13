@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ANALYSE GenNum="3" VersionStructure="2" RepertoireDefaut=""><FICHIER Nom="Client" Abreviation="" NomPhysique="Client" NomLogiqueDataBase="Client" FicNullSupporte="0"><INFOS_ETENDUES/><RUBRIQUE Nom="IDClient"><TYPE>38</TYPE><TYPE_CLE>1</TYPE_CLE><SENS_PARCOURS>0</SENS_PARCOURS><TAILLE>4</TAILLE><INDICERUBRIQUE Indice="0" Null="0" Valeur="" RubNullSupporte="0">0</INDICERUBRIQUE><INFOS_ETENDUES/></RUBRIQUE></FICHIER></ANALYSE>

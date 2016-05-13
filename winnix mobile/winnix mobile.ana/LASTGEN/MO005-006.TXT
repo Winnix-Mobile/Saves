@@ -1,0 +1,8 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Client		TAR	115	nouvelle taille enregistrement : 115
+Client	NomSociete	RUB+		NomSociete est une nouvelle rubrique
+Client	NomInterlocuteur	RUB+		NomInterlocuteur est une nouvelle rubrique
+Commercial		NFI		nouveau fichier
+Marque		NFI		nouveau fichier
+TypeVisite		NFI		nouveau fichier
+Visite		NFI		nouveau fichier

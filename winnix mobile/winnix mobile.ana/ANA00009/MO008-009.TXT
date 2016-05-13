@@ -1,0 +1,10 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+		FIC-	Client	Fichier supprimé Client
+		FIC-	Commercial	Fichier supprimé Commercial
+		FIC-	Marque	Fichier supprimé Marque
+		FIC-	TypeVisite	Fichier supprimé TypeVisite
+		FIC-	Visite	Fichier supprimé Visite
+Client		DEL	Client (IDClient) et Visite (IDClient)	Liaison supprimée entre les fichiers Client (IDClient) et Visite (IDClient)
+Commercial		DEL	Commercial (CodeCommercial) et Visite (CodeCommercial)	Liaison supprimée entre les fichiers Commercial (CodeCommercial) et Visite (CodeCommercial)
+Marque		DEL	Marque (IDMarque) et Visite (IDMarque)	Liaison supprimée entre les fichiers Marque (IDMarque) et Visite (IDMarque)
+TypeVisite		DEL	TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)	Liaison supprimée entre les fichiers TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)

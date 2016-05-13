@@ -1,0 +1,24 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Visite		TAR	288	nouvelle taille enregistrement : 288
+Visite	Etancheite	RUB+		Etancheite est une nouvelle rubrique
+Visite	Graissecolle	RUB+		Graissecolle est une nouvelle rubrique
+Visite	NouveauxProduits	RUB+		NouveauxProduits est une nouvelle rubrique
+Visite	PresentationRS	RUB+		PresentationRS est une nouvelle rubrique
+Visite	Decouverte	RUB+		Decouverte est une nouvelle rubrique
+Visite	Negociation	RUB+		Negociation est une nouvelle rubrique
+Visite	Commande	RUB+		Commande est une nouvelle rubrique
+Visite	Relationel	RUB+		Relationel est une nouvelle rubrique
+Visite	SAV	RUB+		SAV est une nouvelle rubrique
+Visite	Pneumatique	RUB+		Pneumatique est une nouvelle rubrique
+Visite	CommentaireActivite	RUB+		CommentaireActivite est une nouvelle rubrique
+Visite	CodeDuree	RUB+		CodeDuree est une nouvelle rubrique
+Visite	Commentaire	RUB+		Commentaire est une nouvelle rubrique
+Visite	Collaborateur	RUB+		Collaborateur est une nouvelle rubrique
+Visite	IDClient	RUB+		IDClient est une nouvelle clé
+Visite	CodeCommercial	RUB+		CodeCommercial est une nouvelle clé
+Visite	IDMarque	RUB+		IDMarque est une nouvelle clé
+Visite	IDTypeVisite	RUB+		IDTypeVisite est une nouvelle clé
+Client		NWL	Client (IDClient) et Visite (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Visite (IDClient)
+Commercial		NWL	Commercial (CodeCommercial) et Visite (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Visite (CodeCommercial)
+Marque		NWL	Marque (IDMarque) et Visite (IDMarque)	Nouvelle liaison entre les fichiers Marque (IDMarque) et Visite (IDMarque)
+TypeVisite		NWL	TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)	Nouvelle liaison entre les fichiers TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)
