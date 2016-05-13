@@ -1,0 +1,671 @@
+le serveur a été lancé le 12/05/2016 à 12:20:03
+le 12/05/2016 à 12:20:05 le Client C573458d50026df0c s'est connecté au socket Serveur
+le 12/05/2016 à 12:20:05 j'ai reçu le l'instruction: visualisation de la part du client   C573458d50026df0c
+le 12/05/2016 à 12:20:06 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%a%')
+le 12/05/2016 à 12:20:06 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le 12/05/2016 à 12:20:43 le Client C573458fb1e2771c9 s'est connecté au socket Serveur
+le 12/05/2016 à 12:20:43 j'ai reçu le l'instruction: nomClient de la part du client   C573458fb1e2771c9
+le 12/05/2016 à 12:20:43 j'ai reçu la cherche client: Aldi
+j'ai donc executé la requête: select NomSociete from Client where lower(NomSociete) like lower('%Aldi%')
+le 12/05/2016 à 12:20:43 j'ai écrit les noms: Aldi# dans le socket
+le 12/05/2016 à 12:20:45 le Client C573458fd52f679a6 s'est connecté au socket Serveur
+le 12/05/2016 à 12:20:45 j'ai reçu le l'instruction: ajouter de la part du client   C573458fd52f679a6
+le 12/05/2016 à 12:20:45 j'ai reçu les données visite: 9922*16934#9922#Aldi#3#16934#16934#P#0#0#1#0#1#0#0#1#0#0#0#1#0#0#0#1##3###3#
+le 12/05/2016 à 12:20:45 j'ai réussi la requête, j'envois OK
+le 12/05/2016 à 12:20:52 le Client C5734590409859570 s'est connecté au socket Serveur
+le 12/05/2016 à 12:20:52 j'ai reçu le l'instruction: visualisation de la part du client   C5734590409859570
+le 12/05/2016 à 12:20:52 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%a%')
+le 12/05/2016 à 12:20:52 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le 12/05/2016 à 12:21:20 le Client C573459202297011d s'est connecté au socket Serveur
+le 12/05/2016 à 12:21:20 j'ai reçu le l'instruction: visualisation de la part du client   C573459202297011d
+le 12/05/2016 à 12:21:20 j'ai reçu le paquet recherche de visite: 9922#A
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%A%')
+le 12/05/2016 à 12:21:20 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le 12/05/2016 à 12:21:54 le Client C573459422e15873d s'est connecté au socket Serveur
+le 12/05/2016 à 12:21:54 j'ai reçu le l'instruction: visualisation de la part du client   C573459422e15873d
+le 12/05/2016 à 12:21:54 j'ai reçu le paquet recherche de visite: 9922#l
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%l%')
+le 12/05/2016 à 12:22:03 le Client C5734594b20ada92e s'est connecté au socket Serveur
+le 12/05/2016 à 12:22:03 j'ai reçu le l'instruction: visualisation de la part du client   C5734594b20ada92e
+le 12/05/2016 à 12:22:03 j'ai reçu le paquet recherche de visite: 9922#d
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%d%')
+le serveur a été lancé le 12/05/2016 à 12:24:49
+le 12/05/2016 à 12:24:54 le Client C573459f6002646c4 s'est connecté au socket Serveur
+le 12/05/2016 à 12:24:54 j'ai reçu le l'instruction: connexion de la part du client   C573459f6002646c4
+le 12/05/2016 à 12:24:54 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 12:25:01 le Client C573459fd1e276184 s'est connecté au socket Serveur
+le 12/05/2016 à 12:25:01 j'ai reçu le l'instruction: visualisation de la part du client   C573459fd1e276184
+le 12/05/2016 à 12:25:01 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like 'lower(%a%')
+le 12/05/2016 à 12:25:01 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le serveur a été lancé le 12/05/2016 à 12:25:53
+le 12/05/2016 à 12:26:04 le Client C57345a3c00265832 s'est connecté au socket Serveur
+le 12/05/2016 à 12:26:04 j'ai reçu le l'instruction: visualisation de la part du client   C57345a3c00265832
+le 12/05/2016 à 12:26:04 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%a%')
+le 12/05/2016 à 12:26:04 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le 12/05/2016 à 12:27:43 le Client C57345a9f1e27dbc2 s'est connecté au socket Serveur
+le 12/05/2016 à 12:27:43 j'ai reçu le l'instruction: visualisation de la part du client   C57345a9f1e27dbc2
+le 12/05/2016 à 12:27:43 j'ai reçu le paquet recherche de visite: 9922#Aldi
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%Aldi%')
+le 12/05/2016 à 12:27:43 j'ai écrit dans le socket: 9922*16934*4#Aldi###0#1#0#0#1#0#0#0#1#0#0#0#1#0#0#1#3##3#P#3#20160512#{9922*16934*3#Aldi###0#1#0#1#0#0#0#0#1#0#0#0#1#0#0#1#3##11#P#3#20160512#{}2
+le 12/05/2016 à 12:27:56 le Client C57345aac52f60ee3 s'est connecté au socket Serveur
+le 12/05/2016 à 12:27:56 j'ai reçu le l'instruction: visualisation de la part du client   C57345aac52f60ee3
+le 12/05/2016 à 12:27:56 j'ai reçu le paquet recherche de visite: 9922#A
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%A%')
+le 12/05/2016 à 12:27:57 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le 12/05/2016 à 12:28:09 le Client C57345ab909853f26 s'est connecté au socket Serveur
+le 12/05/2016 à 12:28:09 j'ai reçu le l'instruction: visualisation de la part du client   C57345ab909853f26
+le 12/05/2016 à 12:28:09 j'ai reçu le paquet recherche de visite: 9922#Al
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%Al%')
+le 12/05/2016 à 12:28:09 j'ai écrit dans le socket: 9922*16934*4#Aldi###0#1#0#0#1#0#0#0#1#0#0#0#1#0#0#1#3##3#P#3#20160512#{9922*16934*3#Aldi###0#1#0#1#0#0#0#0#1#0#0#0#1#0#0#1#3##11#P#3#20160512#{}2
+le serveur a été lancé le 12/05/2016 à 12:40:57
+le 12/05/2016 à 12:41:12 le Client C57345dc80026342e s'est connecté au socket Serveur
+le 12/05/2016 à 12:41:12 j'ai reçu le l'instruction: connexion de la part du client   C57345dc80026342e
+le 12/05/2016 à 12:41:12 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 12:41:19 le Client C57345dcf1e274d49 s'est connecté au socket Serveur
+le 12/05/2016 à 12:41:19 j'ai reçu le l'instruction: visualisation de la part du client   C57345dcf1e274d49
+le 12/05/2016 à 12:41:19 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%a%')
+le 12/05/2016 à 12:41:19 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Carrefour#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{}2
+le serveur a été lancé le 12/05/2016 à 12:46:52
+le 12/05/2016 à 12:46:54 le Client C57345f1e00266a8a s'est connecté au socket Serveur
+le 12/05/2016 à 12:46:54 j'ai reçu le l'instruction: visualisation de la part du client   C57345f1e00266a8a
+le 12/05/2016 à 12:46:54 j'ai reçu le paquet recherche de visite: 9922#a
+pour obtenir l'ID client, j'ai donc exécuté la requête: select IDClient from Client where lower(NomSociete) like lower('%a%')
+le 12/05/2016 à 12:46:54 j'ai écrit dans le socket: 9922*16934*2#Brammer#sh kV#IV IV#1#0#0#1#0#0#0#1#0#0#0#1#0#0#0#1#3#EDF Tc#2#P#3#20160512#Citröen{9922*16934*1#Brammer#sdf hg#DC dg#0#1#0#0#1#0#0#1#0#0#0#1#0#0#0#1#1#DC dg#8#P#2#20160512#{9922*16934*4#Aldi###0#1#0#0#1#0#0#0#1#0#0#0#1#0#0#1#3##3#P#3#20160512#{9922*16934*3#Aldi###0#1#0#1#0#0#0#0#1#0#0#0#1#0#0#1#3##11#P#3#20160512#{}4
+le serveur a été lancé le 12/05/2016 à 13:08:20
+le serveur a été lancé le 12/05/2016 à 13:09:21
+le 12/05/2016 à 13:09:28 le Client C57346468002614cd s'est connecté au socket Serveur
+le 12/05/2016 à 13:09:28 j'ai reçu le l'instruction: connexion de la part du client   C57346468002614cd
+le 12/05/2016 à 13:09:28 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:10:59
+le 12/05/2016 à 13:11:10 le Client C573464ce0026a23c s'est connecté au socket Serveur
+le 12/05/2016 à 13:11:10 j'ai reçu le l'instruction: connexion de la part du client   C573464ce0026a23c
+le 12/05/2016 à 13:11:10 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:11:45
+le 12/05/2016 à 13:11:47 le Client C573464f3002631bf s'est connecté au socket Serveur
+le 12/05/2016 à 13:11:47 j'ai reçu le l'instruction: connexion de la part du client   C573464f3002631bf
+le 12/05/2016 à 13:11:47 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:13:07
+le 12/05/2016 à 13:13:19 le Client C5734654f00269a8f s'est connecté au socket Serveur
+le 12/05/2016 à 13:13:19 j'ai reçu le l'instruction:  de la part du client   C5734654f00269a8f
+le serveur a été lancé le 12/05/2016 à 13:13:35
+le 12/05/2016 à 13:13:36 le Client C573465600026de71 s'est connecté au socket Serveur
+le 12/05/2016 à 13:13:36 j'ai reçu le l'instruction: connexion de la part du client   C573465600026de71
+le 12/05/2016 à 13:13:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:25:52
+le 12/05/2016 à 13:26:06 le Client C5734684e00264f1e s'est connecté au socket Serveur
+le 12/05/2016 à 13:26:06 j'ai reçu le l'instruction: connexion de la part du client   C5734684e00264f1e
+le 12/05/2016 à 13:26:06 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:30:09
+le 12/05/2016 à 13:30:11 le Client C5734694300260d10 s'est connecté au socket Serveur
+le 12/05/2016 à 13:30:11 j'ai reçu le l'instruction: connexion de la part du client   C5734694300260d10
+le 12/05/2016 à 13:30:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 13:31:41
+le 12/05/2016 à 13:31:55 le Client C573469ab0026a365 s'est connecté au socket Serveur
+le 12/05/2016 à 13:31:55 j'ai reçu le l'instruction: connexion de la part du client   C573469ab0026a365
+le 12/05/2016 à 13:31:55 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:15:05
+le 12/05/2016 à 14:15:12 le Client C573473d000264263 s'est connecté au socket Serveur
+le 12/05/2016 à 14:15:12 j'ai reçu le l'instruction: connexion de la part du client   C573473d000264263
+le 12/05/2016 à 14:15:12 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:17:32
+le 12/05/2016 à 14:17:59 le Client C573474770026cda1 s'est connecté au socket Serveur
+le 12/05/2016 à 14:17:59 j'ai reçu le l'instruction: connexion de la part du client   C573474770026cda1
+le 12/05/2016 à 14:17:59 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:21:32
+le 12/05/2016 à 14:21:39 le Client C57347553002629a5 s'est connecté au socket Serveur
+le 12/05/2016 à 14:21:39 j'ai reçu le l'instruction: connexion de la part du client   C57347553002629a5
+le 12/05/2016 à 14:21:39 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:22:52
+le 12/05/2016 à 14:23:01 le Client C573475a500266b27 s'est connecté au socket Serveur
+le 12/05/2016 à 14:23:01 j'ai reçu le l'instruction: connexion de la part du client   C573475a500266b27
+le 12/05/2016 à 14:23:01 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:23:53
+le 12/05/2016 à 14:24:11 le Client C573475eb00267d60 s'est connecté au socket Serveur
+le 12/05/2016 à 14:24:11 j'ai reçu le l'instruction: connexion de la part du client   C573475eb00267d60
+le 12/05/2016 à 14:24:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:25:59
+le 12/05/2016 à 14:26:09 le Client C5734766100264b48 s'est connecté au socket Serveur
+le 12/05/2016 à 14:26:09 j'ai reçu le l'instruction: connexion de la part du client   C5734766100264b48
+le 12/05/2016 à 14:26:09 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:28:57 le Client C573477091e27d8d8 s'est connecté au socket Serveur
+le 12/05/2016 à 14:28:57 j'ai reçu le l'instruction: connexion de la part du client   C573477091e27d8d8
+le 12/05/2016 à 14:28:57 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:29:39 le Client C5734773352f67ce3 s'est connecté au socket Serveur
+le 12/05/2016 à 14:29:39 j'ai reçu le l'instruction: connexion de la part du client   C5734773352f67ce3
+le 12/05/2016 à 14:29:39 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:30:26 le Client C5734776209853421 s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:26 j'ai reçu le l'instruction: connexion de la part du client   C5734776209853421
+le 12/05/2016 à 14:30:26 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:30:31
+le 12/05/2016 à 14:30:34 le Client C5734776a0026544d s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:34 j'ai reçu le l'instruction: connexion de la part du client   C5734776a0026544d
+le 12/05/2016 à 14:30:34 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:30:40 le Client C573477701e276b66 s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:40 j'ai reçu le l'instruction: connexion de la part du client   C573477701e276b66
+le 12/05/2016 à 14:30:40 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:30:45 le Client C5734777552f67dec s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:45 j'ai reçu le l'instruction: connexion de la part du client   C5734777552f67dec
+le 12/05/2016 à 14:30:45 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:30:50 le Client C5734777a098593bd s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:50 j'ai reçu le l'instruction: connexion de la part du client   C5734777a098593bd
+le 12/05/2016 à 14:30:50 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:30:55 le Client C5734777f2297a885 s'est connecté au socket Serveur
+le 12/05/2016 à 14:30:55 j'ai reçu le l'instruction: connexion de la part du client   C5734777f2297a885
+le 12/05/2016 à 14:30:55 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:31:02 le Client C573477862e15c1b0 s'est connecté au socket Serveur
+le 12/05/2016 à 14:31:02 j'ai reçu le l'instruction: connexion de la part du client   C573477862e15c1b0
+le 12/05/2016 à 14:31:02 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:31:07 le Client C5734778b20add484 s'est connecté au socket Serveur
+le 12/05/2016 à 14:31:07 j'ai reçu le l'instruction: connexion de la part du client   C5734778b20add484
+le 12/05/2016 à 14:31:07 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:32:17 le Client C573477d17e1de797 s'est connecté au socket Serveur
+le 12/05/2016 à 14:32:17 j'ai reçu le l'instruction: connexion de la part du client   C573477d17e1de797
+le 12/05/2016 à 14:32:17 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:34:05 le Client C5734783d28d28bb2 s'est connecté au socket Serveur
+le 12/05/2016 à 14:34:05 j'ai reçu le l'instruction: connexion de la part du client   C5734783d28d28bb2
+le 12/05/2016 à 14:34:05 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:34:55 le Client C5734786f779450a5 s'est connecté au socket Serveur
+le 12/05/2016 à 14:34:55 j'ai reçu le l'instruction: connexion de la part du client   C5734786f779450a5
+le 12/05/2016 à 14:34:55 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 14:36:04
+le 12/05/2016 à 14:36:12 le Client C573478bc00267d70 s'est connecté au socket Serveur
+le 12/05/2016 à 14:36:12 j'ai reçu le l'instruction: connexion de la part du client   C573478bc00267d70
+le 12/05/2016 à 14:36:12 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:37:02 le Client C573478ee1e27411b s'est connecté au socket Serveur
+le 12/05/2016 à 14:37:02 j'ai reçu le l'instruction: connexion de la part du client   C573478ee1e27411b
+le 12/05/2016 à 14:37:02 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:37:07 le Client C573478f352f6527a s'est connecté au socket Serveur
+le 12/05/2016 à 14:37:07 j'ai reçu le l'instruction: connexion de la part du client   C573478f352f6527a
+le 12/05/2016 à 14:37:07 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:37:23 le Client C5734790309859082 s'est connecté au socket Serveur
+le 12/05/2016 à 14:37:23 j'ai reçu le l'instruction: connexion de la part du client   C5734790309859082
+le 12/05/2016 à 14:37:23 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:37:27 le Client C573479072297a28c s'est connecté au socket Serveur
+le 12/05/2016 à 14:37:27 j'ai reçu le l'instruction: connexion de la part du client   C573479072297a28c
+le 12/05/2016 à 14:37:27 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:45:39 le Client C57347af32e1524e5 s'est connecté au socket Serveur
+le 12/05/2016 à 14:45:39 j'ai reçu le l'instruction: connexion de la part du client   C57347af32e1524e5
+le 12/05/2016 à 14:45:39 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:48:11 le Client C57347b8b20ad7555 s'est connecté au socket Serveur
+le 12/05/2016 à 14:48:11 j'ai reçu le l'instruction: connexion de la part du client   C57347b8b20ad7555
+le 12/05/2016 à 14:48:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:51:07 le Client C57347c3b7e1d2468 s'est connecté au socket Serveur
+le 12/05/2016 à 14:51:07 j'ai reçu le l'instruction: connexion de la part du client   C57347c3b7e1d2468
+le 12/05/2016 à 14:51:07 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 14:55:18 le Client C57347d3628d2f7cd s'est connecté au socket Serveur
+le 12/05/2016 à 14:55:18 j'ai reçu le l'instruction: connexion de la part du client   C57347d3628d2f7cd
+le 12/05/2016 à 14:55:18 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 15:27:08
+le 12/05/2016 à 15:27:14 le Client C573484b200263357 s'est connecté au socket Serveur
+le 12/05/2016 à 15:27:14 j'ai reçu le l'instruction: connexion de la part du client   C573484b200263357
+le 12/05/2016 à 15:27:14 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 15:32:05
+le 12/05/2016 à 15:32:12 le Client C573485dc0026c23d s'est connecté au socket Serveur
+le 12/05/2016 à 15:32:12 j'ai reçu le l'instruction: marque de la part du client   C573485dc0026c23d
+le 12/05/2016 à 15:32:38 le Client C573485f61e2725d0 s'est connecté au socket Serveur
+le 12/05/2016 à 15:32:38 j'ai reçu le l'instruction: marque de la part du client   C573485f61e2725d0
+le serveur a été lancé le 12/05/2016 à 15:33:51
+le 12/05/2016 à 15:33:59 le Client C57348647002664d2 s'est connecté au socket Serveur
+le 12/05/2016 à 15:33:59 j'ai reçu le l'instruction: marque de la part du client   C57348647002664d2
+le serveur a été lancé le 12/05/2016 à 15:35:18
+le 12/05/2016 à 15:35:28 le Client C573486a00026c079 s'est connecté au socket Serveur
+le 12/05/2016 à 15:35:28 j'ai reçu le l'instruction: marque de la part du client   C573486a00026c079
+le serveur a été lancé le 12/05/2016 à 15:35:59
+le 12/05/2016 à 15:36:37 le Client C573486e50026cc1c s'est connecté au socket Serveur
+le 12/05/2016 à 15:36:37 j'ai reçu le l'instruction: marque de la part du client   C573486e50026cc1c
+le serveur a été lancé le 12/05/2016 à 15:37:01
+le 12/05/2016 à 15:37:02 le Client C573486fe00262e19 s'est connecté au socket Serveur
+le 12/05/2016 à 15:37:02 j'ai reçu le l'instruction: marque de la part du client   C573486fe00262e19
+le serveur a été lancé le 12/05/2016 à 15:37:37
+le 12/05/2016 à 15:37:41 le Client C573487250026c7b9 s'est connecté au socket Serveur
+le 12/05/2016 à 15:37:41 j'ai reçu le l'instruction: marque de la part du client   C573487250026c7b9
+le serveur a été lancé le 12/05/2016 à 15:38:51
+le 12/05/2016 à 15:38:56 le Client C573487700026ea94 s'est connecté au socket Serveur
+le 12/05/2016 à 15:38:56 j'ai reçu le l'instruction: marque de la part du client   C573487700026ea94
+le serveur a été lancé le 12/05/2016 à 15:43:37
+le 12/05/2016 à 15:43:47 le Client C5734889300265c4a s'est connecté au socket Serveur
+le 12/05/2016 à 15:43:47 j'ai reçu le l'instruction: marque de la part du client   C5734889300265c4a
+le serveur a été lancé le 12/05/2016 à 15:44:04
+le 12/05/2016 à 15:44:06 le Client C573488a60026a74e s'est connecté au socket Serveur
+le 12/05/2016 à 15:44:06 j'ai reçu le l'instruction: marque de la part du client   C573488a60026a74e
+le serveur a été lancé le 12/05/2016 à 15:48:43
+le 12/05/2016 à 15:48:50 le Client C573489c20026fccd s'est connecté au socket Serveur
+le 12/05/2016 à 15:48:50 j'ai reçu le l'instruction: connexion de la part du client   C573489c20026fccd
+le 12/05/2016 à 15:48:50 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 15:48:56
+le 12/05/2016 à 15:49:48 le Client C573489fc0026ddd8 s'est connecté au socket Serveur
+le 12/05/2016 à 15:49:48 j'ai reçu le l'instruction: connexion de la part du client   C573489fc0026ddd8
+le 12/05/2016 à 15:49:48 j'ai reçu les données: 9922#test
+le serveur a été lancé le 12/05/2016 à 15:50:15
+le 12/05/2016 à 15:50:26 le Client C57348a22002673b1 s'est connecté au socket Serveur
+le 12/05/2016 à 15:50:26 j'ai reçu le l'instruction: connexion de la part du client   C57348a22002673b1
+le 12/05/2016 à 15:50:26 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 15:52:00 le Client C57348a801e27e087 s'est connecté au socket Serveur
+le 12/05/2016 à 15:52:00 j'ai reçu le l'instruction: connexion de la part du client   C57348a801e27e087
+le 12/05/2016 à 15:52:00 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 15:53:20
+le 12/05/2016 à 15:53:22 le Client C57348ad200262238 s'est connecté au socket Serveur
+le 12/05/2016 à 15:53:22 j'ai reçu le l'instruction: connexion de la part du client   C57348ad200262238
+le 12/05/2016 à 15:53:22 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 15:53:47 le Client C57348aeb1e27853e s'est connecté au socket Serveur
+le 12/05/2016 à 15:53:47 j'ai reçu le l'instruction: connexion de la part du client   C57348aeb1e27853e
+le 12/05/2016 à 15:53:47 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 15:54:20
+le 12/05/2016 à 15:54:23 le Client C57348b0f0026103e s'est connecté au socket Serveur
+le 12/05/2016 à 15:54:23 j'ai reçu le l'instruction: connexion de la part du client   C57348b0f0026103e
+le 12/05/2016 à 15:54:23 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 15:55:22 le Client C57348b4a1e27f686 s'est connecté au socket Serveur
+le 12/05/2016 à 15:55:22 j'ai reçu le l'instruction: marque de la part du client   C57348b4a1e27f686
+le 12/05/2016 à 15:55:30 le Client C57348b5152f61472 s'est connecté au socket Serveur
+le 12/05/2016 à 15:55:30 j'ai reçu le l'instruction: nomClient de la part du client   C57348b5152f61472
+le 12/05/2016 à 15:55:30 j'ai reçu la cherche client: Brammer
+j'ai donc executé la requête: select NomSociete from Client where lower(NomSociete) like lower('%Brammer%')
+le 12/05/2016 à 15:55:30 j'ai écrit les noms: Brammer# dans le socket
+le 12/05/2016 à 15:55:32 le Client C57348b5409851cbc s'est connecté au socket Serveur
+le 12/05/2016 à 15:55:32 j'ai reçu le l'instruction: ajouter de la part du client   C57348b5409851cbc
+le 12/05/2016 à 15:55:32 j'ai reçu les données visite: 9922*16934#9922#Brammer#2#16934#16934#P#0#0#1#1#0#0#1#0#0#0#0#1#0#0#0#1#sh IX#3###3#Toyota
+le 12/05/2016 à 15:55:32 j'ai réussi la requête, j'envois OK
+le 12/05/2016 à 15:56:33 le Client C57348b9122970e4a s'est connecté au socket Serveur
+le 12/05/2016 à 15:56:33 j'ai reçu le l'instruction: nomClient de la part du client   C57348b9122970e4a
+le 12/05/2016 à 15:56:33 j'ai reçu la cherche client: Brammer
+j'ai donc executé la requête: select NomSociete from Client where lower(NomSociete) like lower('%Brammer%')
+le 12/05/2016 à 15:56:33 j'ai écrit les noms: Brammer# dans le socket
+le serveur a été lancé le 12/05/2016 à 15:58:02
+le 12/05/2016 à 15:58:09 le Client C57348bf1002682be s'est connecté au socket Serveur
+le serveur a été lancé le 12/05/2016 à 15:59:58
+le 12/05/2016 à 16:00:05 le Client C57348c65002649c4 s'est connecté au socket Serveur
+le 12/05/2016 à 16:00:05 j'ai reçu le l'instruction:  de la part du client   C57348c65002649c4
+le serveur a été lancé le 12/05/2016 à 16:00:38
+le 12/05/2016 à 16:00:48 le Client C57348c900026f178 s'est connecté au socket Serveur
+le 12/05/2016 à 16:00:48 j'ai reçu le l'instruction: nomClient de la part du client   C57348c900026f178
+le 12/05/2016 à 16:00:48 j'ai reçu la cherche client: Brammer
+j'ai donc executé la requête: select NomSociete from Client where lower(NomSociete) like lower('%Brammer%')
+le 12/05/2016 à 16:00:48 j'ai écrit les noms: Brammer# dans le socket
+le serveur a été lancé le 12/05/2016 à 16:01:12
+le 12/05/2016 à 16:01:25 le Client C57348cb20026742e s'est connecté au socket Serveur
+le 12/05/2016 à 16:01:25 j'ai reçu le l'instruction:  de la part du client   C57348cb20026742e
+le serveur a été lancé le 12/05/2016 à 16:01:49
+le 12/05/2016 à 16:01:57 le Client C57348cd50026fec1 s'est connecté au socket Serveur
+le serveur a été lancé le 12/05/2016 à 16:02:09
+le 12/05/2016 à 16:02:18 le Client C57348cea00264f50 s'est connecté au socket Serveur
+le serveur a été lancé le 12/05/2016 à 16:03:24
+le 12/05/2016 à 16:03:31 le Client C57348d3300266c90 s'est connecté au socket Serveur
+le serveur a été lancé le 12/05/2016 à 16:04:20
+le 12/05/2016 à 16:04:31 le Client C57348d6f00265816 s'est connecté au socket Serveur
+le 12/05/2016 à 16:04:39 j'ai reçu le l'instruction: nomClient de la part du client   C57348d6f00265816
+le 12/05/2016 à 16:04:39 j'ai reçu la cherche client: Brammer
+j'ai donc executé la requête: select NomSociete from Client where lower(NomSociete) like lower('%Brammer%')
+le 12/05/2016 à 16:04:39 j'ai écrit les noms: Brammer# dans le socket
+le serveur a été lancé le 12/05/2016 à 16:05:29
+le 12/05/2016 à 16:05:36 le Client C57348db000265420 s'est connecté au socket Serveur
+le 12/05/2016 à 16:05:36 j'ai reçu le l'instruction: connexion de la part du client   C57348db000265420
+le 12/05/2016 à 16:05:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:06:05
+le 12/05/2016 à 16:06:13 le Client C57348dd50026e7c7 s'est connecté au socket Serveur
+le 12/05/2016 à 16:06:13 j'ai reçu le l'instruction: connexion de la part du client   C57348dd50026e7c7
+le 12/05/2016 à 16:06:13 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:15:12
+le 12/05/2016 à 16:15:31 le Client C5734900300266994 s'est connecté au socket Serveur
+le 12/05/2016 à 16:15:31 j'ai reçu le l'instruction:  de la part du client   C5734900300266994
+le serveur a été lancé le 12/05/2016 à 16:30:47
+le 12/05/2016 à 16:30:56 le Client C573493a00026857d s'est connecté au socket Serveur
+le 12/05/2016 à 16:30:56 j'ai reçu le l'instruction: connexion de la part du client   C573493a00026857d
+le 12/05/2016 à 16:30:56 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 16:31:31 le Client C573493c32e150f45 s'est connecté au socket Serveur
+le 12/05/2016 à 16:31:31 j'ai reçu le l'instruction: connexion de la part du client   C573493c32e150f45
+le 12/05/2016 à 16:31:31 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 16:32:56 le Client C5734941877945bbf s'est connecté au socket Serveur
+le 12/05/2016 à 16:32:56 j'ai reçu le l'instruction: connexion de la part du client   C5734941877945bbf
+le 12/05/2016 à 16:32:56 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:41:57
+le 12/05/2016 à 16:42:06 le Client C5734963e0026be39 s'est connecté au socket Serveur
+le 12/05/2016 à 16:42:06 j'ai reçu le l'instruction: connexion de la part du client   C5734963e0026be39
+le 12/05/2016 à 16:42:06 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:46:09
+le 12/05/2016 à 16:46:10 le Client C5734973200267b02 s'est connecté au socket Serveur
+le 12/05/2016 à 16:46:11 j'ai reçu le l'instruction: connexion de la part du client   C5734973200267b02
+le 12/05/2016 à 16:46:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:47:31
+le 12/05/2016 à 16:47:35 le Client C573497870026c3e4 s'est connecté au socket Serveur
+le 12/05/2016 à 16:47:35 j'ai reçu le l'instruction: connexion de la part du client   C573497870026c3e4
+le 12/05/2016 à 16:47:35 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:49:11
+le 12/05/2016 à 16:49:13 le Client C573497e900264294 s'est connecté au socket Serveur
+le 12/05/2016 à 16:49:13 j'ai reçu le l'instruction: connexion de la part du client   C573497e900264294
+le 12/05/2016 à 16:49:13 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:49:41
+le 12/05/2016 à 16:49:44 le Client C573498080026bd10 s'est connecté au socket Serveur
+le 12/05/2016 à 16:49:44 j'ai reçu le l'instruction: connexion de la part du client   C573498080026bd10
+le 12/05/2016 à 16:49:44 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:50:10
+le 12/05/2016 à 16:50:14 le Client C5734982600263211 s'est connecté au socket Serveur
+le 12/05/2016 à 16:50:14 j'ai reçu le l'instruction: connexion de la part du client   C5734982600263211
+le 12/05/2016 à 16:50:14 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:50:39
+le 12/05/2016 à 16:50:41 le Client C5734984100269ded s'est connecté au socket Serveur
+le 12/05/2016 à 16:50:42 j'ai reçu le l'instruction: connexion de la part du client   C5734984100269ded
+le 12/05/2016 à 16:50:42 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:51:40
+le 12/05/2016 à 16:51:43 le Client C5734987f00268e63 s'est connecté au socket Serveur
+le 12/05/2016 à 16:51:43 j'ai reçu le l'instruction: connexion de la part du client   C5734987f00268e63
+le 12/05/2016 à 16:51:43 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:52:33
+le 12/05/2016 à 16:52:36 le Client C573498b400265ce8 s'est connecté au socket Serveur
+le 12/05/2016 à 16:52:36 j'ai reçu le l'instruction: connexion de la part du client   C573498b400265ce8
+le 12/05/2016 à 16:52:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:53:21
+le 12/05/2016 à 16:53:24 le Client C573498e400261a3d s'est connecté au socket Serveur
+le 12/05/2016 à 16:53:24 j'ai reçu le l'instruction: connexion de la part du client   C573498e400261a3d
+le 12/05/2016 à 16:53:24 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:53:55
+le 12/05/2016 à 16:53:59 le Client C573499070026a08c s'est connecté au socket Serveur
+le 12/05/2016 à 16:53:59 j'ai reçu le l'instruction: connexion de la part du client   C573499070026a08c
+le 12/05/2016 à 16:53:59 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:54:09
+le 12/05/2016 à 16:54:12 le Client C573499140026d61c s'est connecté au socket Serveur
+le 12/05/2016 à 16:54:13 j'ai reçu le l'instruction: connexion de la part du client   C573499140026d61c
+le 12/05/2016 à 16:54:13 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:54:32
+le 12/05/2016 à 16:54:35 le Client C5734992b00262fdf s'est connecté au socket Serveur
+le 12/05/2016 à 16:54:36 j'ai reçu le l'instruction: connexion de la part du client   C5734992b00262fdf
+le 12/05/2016 à 16:54:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:55:03
+le 12/05/2016 à 16:55:06 le Client C5734994a0026a665 s'est connecté au socket Serveur
+le 12/05/2016 à 16:55:06 j'ai reçu le l'instruction: connexion de la part du client   C5734994a0026a665
+le 12/05/2016 à 16:55:06 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:55:33
+le 12/05/2016 à 16:55:35 le Client C5734996700261aca s'est connecté au socket Serveur
+le 12/05/2016 à 16:55:36 j'ai reçu le l'instruction: connexion de la part du client   C5734996700261aca
+le 12/05/2016 à 16:55:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:56:24
+le 12/05/2016 à 16:56:27 le Client C5734999b0026e420 s'est connecté au socket Serveur
+le 12/05/2016 à 16:56:27 j'ai reçu le l'instruction: connexion de la part du client   C5734999b0026e420
+le 12/05/2016 à 16:56:27 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:57:09
+le 12/05/2016 à 16:57:13 le Client C573499c90026968d s'est connecté au socket Serveur
+le 12/05/2016 à 16:57:13 j'ai reçu le l'instruction: connexion de la part du client   C573499c90026968d
+le 12/05/2016 à 16:57:13 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:57:47
+le 12/05/2016 à 16:57:51 le Client C573499ef00262a63 s'est connecté au socket Serveur
+le 12/05/2016 à 16:57:51 j'ai reçu le l'instruction: connexion de la part du client   C573499ef00262a63
+le 12/05/2016 à 16:57:51 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:58:05
+le 12/05/2016 à 16:58:08 le Client C57349a0000266df8 s'est connecté au socket Serveur
+le 12/05/2016 à 16:58:08 j'ai reçu le l'instruction: connexion de la part du client   C57349a0000266df8
+le 12/05/2016 à 16:58:08 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:58:53
+le 12/05/2016 à 16:58:55 le Client C57349a2f002626ea s'est connecté au socket Serveur
+le 12/05/2016 à 16:58:55 j'ai reçu le l'instruction: connexion de la part du client   C57349a2f002626ea
+le 12/05/2016 à 16:58:55 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:59:12
+le 12/05/2016 à 16:59:14 le Client C57349a42002671af s'est connecté au socket Serveur
+le 12/05/2016 à 16:59:15 j'ai reçu le l'instruction: connexion de la part du client   C57349a42002671af
+le 12/05/2016 à 16:59:15 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 16:59:42
+le 12/05/2016 à 16:59:47 le Client C57349a630026f031 s'est connecté au socket Serveur
+le 12/05/2016 à 16:59:47 j'ai reçu le l'instruction: connexion de la part du client   C57349a630026f031
+le 12/05/2016 à 16:59:47 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:00:16
+le 12/05/2016 à 17:00:19 le Client C57349a8300266ea3 s'est connecté au socket Serveur
+le 12/05/2016 à 17:00:19 j'ai reçu le l'instruction: connexion de la part du client   C57349a8300266ea3
+le 12/05/2016 à 17:00:19 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:01:12
+le 12/05/2016 à 17:01:16 le Client C57349abc00264ce1 s'est connecté au socket Serveur
+le 12/05/2016 à 17:01:16 j'ai reçu le l'instruction: connexion de la part du client   C57349abc00264ce1
+le 12/05/2016 à 17:01:16 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:01:50
+le 12/05/2016 à 17:01:53 le Client C57349ae10026de08 s'est connecté au socket Serveur
+le 12/05/2016 à 17:01:53 j'ai reçu le l'instruction: connexion de la part du client   C57349ae10026de08
+le 12/05/2016 à 17:01:53 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:03:04
+le 12/05/2016 à 17:03:07 le Client C57349b2b00260038 s'est connecté au socket Serveur
+le 12/05/2016 à 17:03:08 j'ai reçu le l'instruction: connexion de la part du client   C57349b2b00260038
+le 12/05/2016 à 17:03:08 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:03:28
+le 12/05/2016 à 17:03:31 le Client C57349b4300265d65 s'est connecté au socket Serveur
+le 12/05/2016 à 17:03:32 j'ai reçu le l'instruction: connexion de la part du client   C57349b4300265d65
+le 12/05/2016 à 17:03:32 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 12/05/2016 à 17:03:43 le Client C57349b4f1e278a00 s'est connecté au socket Serveur
+le 12/05/2016 à 17:03:43 j'ai reçu le l'instruction: connexion de la part du client   C57349b4f1e278a00
+le 12/05/2016 à 17:03:43 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:04:43
+le 12/05/2016 à 17:04:47 le Client C57349b8f002683e8 s'est connecté au socket Serveur
+le 12/05/2016 à 17:04:47 j'ai reçu le l'instruction: connexion de la part du client   C57349b8f002683e8
+le 12/05/2016 à 17:04:47 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 12/05/2016 à 17:05:08
+le 12/05/2016 à 17:05:11 le Client C57349ba70026e327 s'est connecté au socket Serveur
+le 12/05/2016 à 17:05:11 j'ai reçu le l'instruction: connexion de la part du client   C57349ba70026e327
+le 12/05/2016 à 17:05:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:23:30
+le 13/05/2016 à 08:23:42 le Client C573572ee00263504 s'est connecté au socket Serveur
+le 13/05/2016 à 08:23:42 j'ai reçu le l'instruction: connexion de la part du client   C573572ee00263504
+le 13/05/2016 à 08:23:42 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:24:30
+le 13/05/2016 à 08:24:33 le Client C573573210026fbdb s'est connecté au socket Serveur
+le 13/05/2016 à 08:24:33 j'ai reçu le l'instruction: connexion de la part du client   C573573210026fbdb
+le 13/05/2016 à 08:24:33 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:25:22
+le 13/05/2016 à 08:25:25 le Client C573573550026c5fd s'est connecté au socket Serveur
+le 13/05/2016 à 08:25:25 j'ai reçu le l'instruction: connexion de la part du client   C573573550026c5fd
+le 13/05/2016 à 08:25:25 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:25:50
+le 13/05/2016 à 08:25:51 le Client C5735736f00262dd3 s'est connecté au socket Serveur
+le 13/05/2016 à 08:25:52 j'ai reçu le l'instruction: connexion de la part du client   C5735736f00262dd3
+le 13/05/2016 à 08:25:52 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:26:13
+le 13/05/2016 à 08:26:16 le Client C5735738800268ea8 s'est connecté au socket Serveur
+le 13/05/2016 à 08:26:16 j'ai reçu le l'instruction: connexion de la part du client   C5735738800268ea8
+le 13/05/2016 à 08:26:16 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:26:37
+le 13/05/2016 à 08:26:41 le Client C573573a10026ef6d s'est connecté au socket Serveur
+le 13/05/2016 à 08:26:41 j'ai reçu le l'instruction: connexion de la part du client   C573573a10026ef6d
+le 13/05/2016 à 08:26:41 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:26:54
+le 13/05/2016 à 08:26:57 le Client C573573b100262f3a s'est connecté au socket Serveur
+le 13/05/2016 à 08:26:57 j'ai reçu le l'instruction: connexion de la part du client   C573573b100262f3a
+le 13/05/2016 à 08:26:57 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:27:33
+le 13/05/2016 à 08:27:36 le Client C573573d80026c5af s'est connecté au socket Serveur
+le 13/05/2016 à 08:27:36 j'ai reçu le l'instruction: connexion de la part du client   C573573d80026c5af
+le 13/05/2016 à 08:27:36 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:27:58
+le 13/05/2016 à 08:28:00 le Client C573573f0002623a6 s'est connecté au socket Serveur
+le 13/05/2016 à 08:28:00 j'ai reçu le l'instruction: connexion de la part du client   C573573f0002623a6
+le 13/05/2016 à 08:28:00 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:34:52
+le 13/05/2016 à 08:34:56 le Client C5735759000267f2d s'est connecté au socket Serveur
+le 13/05/2016 à 08:34:57 j'ai reçu le l'instruction: connexion de la part du client   C5735759000267f2d
+le 13/05/2016 à 08:34:57 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:35:47
+le 13/05/2016 à 08:35:50 le Client C573575c6002650be s'est connecté au socket Serveur
+le 13/05/2016 à 08:35:50 j'ai reçu le l'instruction: connexion de la part du client   C573575c6002650be
+le 13/05/2016 à 08:35:50 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:37:10
+le 13/05/2016 à 08:37:17 le Client C5735761d0026a534 s'est connecté au socket Serveur
+le 13/05/2016 à 08:37:17 j'ai reçu le l'instruction: connexion de la part du client   C5735761d0026a534
+le 13/05/2016 à 08:37:17 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:38:05
+le 13/05/2016 à 08:38:08 le Client C5735765000266c97 s'est connecté au socket Serveur
+le 13/05/2016 à 08:38:09 j'ai reçu le l'instruction: connexion de la part du client   C5735765000266c97
+le 13/05/2016 à 08:38:09 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:38:57
+le 13/05/2016 à 08:39:00 le Client C57357684002635b0 s'est connecté au socket Serveur
+le 13/05/2016 à 08:39:00 j'ai reçu le l'instruction: connexion de la part du client   C57357684002635b0
+le 13/05/2016 à 08:39:00 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:41:13
+le 13/05/2016 à 08:41:15 le Client C5735770b00264691 s'est connecté au socket Serveur
+le 13/05/2016 à 08:41:15 j'ai reçu le l'instruction: connexion de la part du client   C5735770b00264691
+le 13/05/2016 à 08:41:15 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:42:36
+le 13/05/2016 à 08:42:41 le Client C5735776100269453 s'est connecté au socket Serveur
+le 13/05/2016 à 08:42:41 j'ai reçu le l'instruction: connexion de la part du client   C5735776100269453
+le 13/05/2016 à 08:42:41 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:43:40
+le 13/05/2016 à 08:43:42 le Client C5735779e0026845c s'est connecté au socket Serveur
+le 13/05/2016 à 08:43:42 j'ai reçu le l'instruction: connexion de la part du client   C5735779e0026845c
+le 13/05/2016 à 08:43:42 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:44:35
+le 13/05/2016 à 08:44:37 le Client C573577d500265a11 s'est connecté au socket Serveur
+le 13/05/2016 à 08:44:37 j'ai reçu le l'instruction: connexion de la part du client   C573577d500265a11
+le 13/05/2016 à 08:44:37 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:45:51
+le 13/05/2016 à 08:45:57 le Client C5735782500269369 s'est connecté au socket Serveur
+le 13/05/2016 à 08:45:57 j'ai reçu le l'instruction: connexion de la part du client   C5735782500269369
+le 13/05/2016 à 08:45:57 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 08:46:11 le Client C573578331e27ca03 s'est connecté au socket Serveur
+le 13/05/2016 à 08:46:11 j'ai reçu le l'instruction: connexion de la part du client   C573578331e27ca03
+le 13/05/2016 à 08:46:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:48:04
+le 13/05/2016 à 08:48:11 le Client C573578ab00269dc5 s'est connecté au socket Serveur
+le 13/05/2016 à 08:48:11 j'ai reçu le l'instruction: connexion de la part du client   C573578ab00269dc5
+le 13/05/2016 à 08:48:11 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 08:48:34 le Client C573578c21e27f96b s'est connecté au socket Serveur
+le 13/05/2016 à 08:48:34 j'ai reçu le l'instruction: connexion de la part du client   C573578c21e27f96b
+le 13/05/2016 à 08:48:34 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:49:53
+le 13/05/2016 à 08:49:57 le Client C5735791500263ea5 s'est connecté au socket Serveur
+le 13/05/2016 à 08:49:58 j'ai reçu le l'instruction: connexion de la part du client   C5735791500263ea5
+le 13/05/2016 à 08:49:58 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:54:05
+le 13/05/2016 à 08:54:07 le Client C57357a0f00260c30 s'est connecté au socket Serveur
+le 13/05/2016 à 08:54:07 j'ai reçu le l'instruction: connexion de la part du client   C57357a0f00260c30
+le 13/05/2016 à 08:54:07 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 08:55:11 le Client C57357a4f1e270731 s'est connecté au socket Serveur
+le 13/05/2016 à 08:55:11 j'ai reçu le l'instruction: connexion de la part du client   C57357a4f1e270731
+le 13/05/2016 à 08:55:12 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le serveur a été lancé le 13/05/2016 à 08:57:09
+le 13/05/2016 à 08:57:31 le Client C57357adb00262b06 s'est connecté au socket Serveur
+le 13/05/2016 à 08:57:32 j'ai reçu le l'instruction:  de la part du client   C57357adb00262b06
+le 13/05/2016 à 08:57:48 le Client C57357aec1e276e2d s'est connecté au socket Serveur
+le 13/05/2016 à 08:57:48 j'ai reçu le l'instruction: connexion de la part du client   C57357aec1e276e2d
+le 13/05/2016 à 08:57:49 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 08:59:07 le Client C57357b3b52f6a331 s'est connecté au socket Serveur
+le 13/05/2016 à 08:59:07 j'ai reçu le l'instruction: connexion de la part du client   C57357b3b52f6a331
+le 13/05/2016 à 08:59:08 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 08:59:55 le Client C57357b6b09855ca1 s'est connecté au socket Serveur
+le 13/05/2016 à 08:59:55 j'ai reçu le l'instruction: connexion de la part du client   C57357b6b09855ca1
+le 13/05/2016 à 08:59:55 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 09:00:15 le Client C57357b7f2297aa34 s'est connecté au socket Serveur
+le 13/05/2016 à 09:00:15 j'ai reçu le l'instruction: connexion de la part du client   C57357b7f2297aa34
+le 13/05/2016 à 09:00:15 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 09:00:50 le Client C57357ba22e1533dc s'est connecté au socket Serveur
+le 13/05/2016 à 09:00:50 j'ai reçu le l'instruction: connexion de la part du client   C57357ba22e1533dc
+le 13/05/2016 à 09:00:50 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons
+le 13/05/2016 à 09:01:05 le Client C57357bb120ad704f s'est connecté au socket Serveur
+le 13/05/2016 à 09:01:06 j'ai reçu le l'instruction: connexion de la part du client   C57357bb120ad704f
+le 13/05/2016 à 09:01:06 j'ai reçu les données: 9922#test
+j'ai envoyé connexion car les identifiants sont bons

@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Marque		TAR	174	nouvelle taille enregistrement : 174
+Marque	dateAjout	NNR	dateModification	ATTENTION : la rubrique dateModification a pour nouveau nom dateAjout
+Marque	Modifiée	RUB-		la rubrique Modifiée est supprimée

@@ -1,0 +1,7 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Commercial		TAR	221	nouvelle taille enregistrement : 221
+Commercial	AdresseMAC	RUB+		AdresseMAC est une nouvelle clé
+Marque		TAR	171	nouvelle taille enregistrement : 171
+Marque	Modifiée	RUB+		Modifiée est une nouvelle rubrique
+Connexion		NFI		nouveau fichier
+Connexion		NWL	Connexion (AdresseMAC) et Commercial (AdresseMAC)	Nouvelle liaison entre les fichiers Connexion (AdresseMAC) et Commercial (AdresseMAC)

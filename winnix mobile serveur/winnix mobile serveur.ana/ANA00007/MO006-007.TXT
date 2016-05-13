@@ -1,0 +1,4 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Visite		TAR	334	nouvelle taille enregistrement : 334
+Visite		IDE-*		fichier sans identifiant
+Visite	IDVisite	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDVisite a pour nouveau type Chaîne

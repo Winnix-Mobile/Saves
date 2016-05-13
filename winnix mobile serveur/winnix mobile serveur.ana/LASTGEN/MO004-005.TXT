@@ -1,0 +1,5 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Contrainte_Client_Visite		MCL	1,n->0,n	
+Contrainte_Client_Visite		MCL	1,1->0,1	
+Contrainte_Commercial_Visite		MCL	1,1->0,1	
+Contrainte_TypeVisite_Visite		MCL	1,1->0,1	

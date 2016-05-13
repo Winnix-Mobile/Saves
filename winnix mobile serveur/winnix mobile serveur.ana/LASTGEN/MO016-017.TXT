@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+Secteur		NFI		nouveau fichier
+Secteur		FIC-	Secteur	Fichier supprimé Secteur

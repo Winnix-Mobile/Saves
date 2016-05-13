@@ -1,0 +1,29 @@
+[OPTIONS]
+Compiled File=Aide_winnix_mobile_serveur005.chm
+Title=
+Contents File=Aide_winnix_mobile_serveur.hhc
+Index File=Aide_winnix_mobile_serveur.hhk
+Error Log File=Aide_winnix_mobile_serveur005.err
+Display Compile Progress=Yes
+Display Compile Notes=Yes
+Full-Text Search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced Decompilation=No
+Binary TOC=No
+Flat=Yes
+Default Topic=Fenêtre_FEN_serveur.htm
+Default Window=main
+[WINDOWS]
+main="","Aide_winnix_mobile_serveur.hhc","Aide_winnix_mobile_serveur.hhk","","Fenêtre_FEN_serveur.htm","","","","",0x2420,,0x3846,[34,10,1034,710],,,,0x0,,,0
+
+
+[FILES]
+Livrewinnix mobile serveur.htm
+DescFen.htm
+Fenêtre_FEN_serveur.htm
+ImageFondPartieVar.jpg
+??????????????.jpg
+
+[MAP]
+#include mapid.h

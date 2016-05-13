@@ -1,0 +1,5 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Commercial		TAR	115	nouvelle taille enregistrement : 115
+Commercial	CodeCommercial	CNW	Entier sur 4 octets$Chaîne	la rubrique CodeCommercial a pour nouveau type Entier sur 4 octets
+Visite		TAR	287	nouvelle taille enregistrement : 287
+Visite	CodeCommercial	CNW	Entier sur 4 octets$Chaîne	la rubrique CodeCommercial a pour nouveau type Entier sur 4 octets

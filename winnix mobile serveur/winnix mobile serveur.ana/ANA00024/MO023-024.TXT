@@ -1,0 +1,4 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Visite		TAR	277	nouvelle taille enregistrement : 277
+Visite	date	CNW	Entier sur 4 octets$Date (aaaammjj)	la rubrique date a pour nouveau type Entier sur 4 octets
+Visite	dateModification	CNW	Entier sur 4 octets$Date (aaaammjj)	la rubrique dateModification a pour nouveau type Entier sur 4 octets

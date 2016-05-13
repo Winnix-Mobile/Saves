@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Commercial		TAR	170	nouvelle taille enregistrement : 170
+Commercial	DateModifMDP	CNW	Entier sur 4 octets$Date (aaaammjj)	la rubrique DateModifMDP a pour nouveau type Entier sur 4 octets

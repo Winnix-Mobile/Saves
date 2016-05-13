@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Marque		TAR	175	nouvelle taille enregistrement : 175
+Marque	dateModification	RUB+		dateModification est une nouvelle rubrique
