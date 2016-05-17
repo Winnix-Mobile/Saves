@@ -1,0 +1,12 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Client		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Client		FCNX+	Connexion à 'PCFR-EU0015'	
+Commercial		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Commercial		FCNX+	Connexion à 'PCFR-EU0015'	
+Marque		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Marque		FCNX+	Connexion à 'PCFR-EU0015'	
+TypeVisite		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+TypeVisite		FCNX+	Connexion à 'PCFR-EU0015'	
+Visite		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Visite		FCNX+	Connexion à 'PCFR-EU0015'	
+Connexion à 'PCFR-EU0015'		CNX+		

@@ -1,0 +1,3 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+Secteur		BASE		La base du fichier est passée de HFSQL Client/Serveur à HFSQL Classic
+Secteur		FCNX-	Connexion à 'PCFR-EU0015'	

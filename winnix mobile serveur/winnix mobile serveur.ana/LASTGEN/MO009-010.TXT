@@ -1,0 +1,5 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+Commercial		TAR	166	nouvelle taille enregistrement : 166
+Commercial	MotDePasse	RUB+		MotDePasse est une nouvelle rubrique
+Secteur		NFI		nouveau fichier
+Commercial		NWL	Commercial (CodeCommercial) et Secteur (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Secteur (CodeCommercial)

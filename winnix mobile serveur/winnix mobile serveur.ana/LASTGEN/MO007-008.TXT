@@ -1,0 +1,10 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Client		FCNX+	Connexion à 'PCFR-EU0015'	
+Commercial		FCNX+	Connexion à 'PCFR-EU0015'	
+Marque		FCNX+	Connexion à 'PCFR-EU0015'	
+TypeVisite		NFI		nouveau fichier
+Visite		FCNX+	Connexion à 'PCFR-EU0015'	
+Visite		FIC-	TypeVisite	Fichier supprimé TypeVisite
+TypeVisite		NWL	TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)	Nouvelle liaison entre les fichiers TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)
+TypeVisite		DEL	TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)	Liaison supprimée entre les fichiers TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)
+Connexion à 'PCFR-EU0015'		CNX+		

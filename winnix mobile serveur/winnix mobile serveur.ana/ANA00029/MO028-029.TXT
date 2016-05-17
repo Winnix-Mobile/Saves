@@ -1,0 +1,3 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+Connexion		TAR	115	nouvelle taille enregistrement : 115
+Connexion	fzf	RUB+		fzf est une nouvelle rubrique

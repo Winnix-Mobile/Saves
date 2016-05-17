@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Visite		TAR	291	nouvelle taille enregistrement : 291
+Visite	Presence	CNW	Entier sur 4 octets$Booléen	la rubrique Presence a pour nouveau type Entier sur 4 octets

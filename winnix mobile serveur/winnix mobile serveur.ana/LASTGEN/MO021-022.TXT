@@ -1,0 +1,6 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Secteur		TAR	64	nouvelle taille enregistrement : 64
+Secteur		BASE		La base du fichier est passée de HFSQL Classic à HFSQL Client/Serveur
+Secteur		FCNX+	Connexion à 'PCFR-EU0015'	
+Secteur	CodeCommercial	RUB+		CodeCommercial est une nouvelle clé
+Commercial		NWL	Commercial (CodeCommercial) et Secteur (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Secteur (CodeCommercial)

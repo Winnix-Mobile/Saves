@@ -1,0 +1,10 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+Client		NFI		nouveau fichier
+Commercial		NFI		nouveau fichier
+Marque		NFI		nouveau fichier
+TypeVisite		NFI		nouveau fichier
+Visite		NFI		nouveau fichier
+Client		NWL	Client (IDClient) et Visite (IDClient)	Nouvelle liaison entre les fichiers Client (IDClient) et Visite (IDClient)
+Commercial		NWL	Commercial (CodeCommercial) et Visite (CodeCommercial)	Nouvelle liaison entre les fichiers Commercial (CodeCommercial) et Visite (CodeCommercial)
+Marque		NWL	Marque (IDMarque) et Visite (IDMarque)	Nouvelle liaison entre les fichiers Marque (IDMarque) et Visite (IDMarque)
+TypeVisite		NWL	TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)	Nouvelle liaison entre les fichiers TypeVisite (IDTypeVisite) et Visite (IDTypeVisite)
